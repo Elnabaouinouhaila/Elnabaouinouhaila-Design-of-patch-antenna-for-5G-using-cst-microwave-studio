@@ -1,0 +1,2 @@
+# Elnabaouinouhaila-Design-of-patch-antenna-for-5G-using-cst-microwave-studio
+Notre recherche vise à étudier la communication de cinquième génération et le champ d'étude des formes d'antennes d'ondes millimétriques. Pour se conformer au problème de la recherche, l'objectif suivant est proposé en général: Mise en œuvre des bandes d'antenne dans la bande des 28 GHz pour une utilisation potentielle en 5G.
